@@ -1,6 +1,7 @@
 <h1 align="center">Hi fellows 👋</h1>
 
 ###
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
