@@ -7,7 +7,8 @@
 
 ###
 
-<p align="left">this is Amazingmazy<br><br>- 🔭 I’m backend developer<br>- 😎 My profession is Laravel <br>- 😁 with a few Knowledge of Vue.js<br> - 👨🏻‍💻 I’m currently coding on heyvanyar.com<br>- 📫 How to reach me => maziardehqani@gmail.com</p>
+<p align="left">this is Amazingmazy<br><br>- 🔭 I’m backend developer<br>- 😎 My profession is Laravel <br>- 😁 with a few Knowledge of Vue.js<br> - 👨🏻‍💻 I’m currently coding on heyvanyar.com<br>- 📫 you can hire me </p>
+
 
 
 ###
