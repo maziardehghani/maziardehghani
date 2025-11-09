@@ -1,8 +1,4 @@
 <h1 align="center">Hi fellows 👋</h1>
-
-###
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
-
 <h3 align="left">👨‍🚀  About Me</h3>
 
 ###
@@ -12,9 +8,6 @@
   - 🚀 Founder & Backend Developer at <b>Trustence Agency</b><br>
   - 😎 Laravel is my playground<br>
   - 👀 A bit of Vue.js in my toolkit<br>
-  - 🧠 Passionate about building secure and scalable applications<br>
-  - 🔭 Currently working on <b>heyvanyar.com</b><br>
-  - 📬 Want to build something awesome together? Reach out!
 </p>
 
 <div align="left">
